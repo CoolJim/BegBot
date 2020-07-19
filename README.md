@@ -1,9 +1,8 @@
 # BegBot
 This is a AtuoHotKey script which types "pls beg" every minute
-use this in a discord server which has the 'Dank Memer' bot to make $$$
+use this in a discord server which has the 'Dank Memer' bot to make money.
 
-
-![pepe](https://user-images.githubusercontent.com/49152866/69035248-3ba6ec00-0a09-11ea-9526-641dfebb0e45.png)
+Thanks to C3X0r for the original BegBot project, which seems to have been abandoned. See the original here: https://github.com/C3X0r/BegBot
 
 
 
